@@ -1,0 +1,11 @@
+# Этот файл содержит список Python-библиотек, необходимых для проекта.
+# Установите их с помощью команды: pip install -r requirements.txt
+
+openai-whisper
+watchdog
+python-telegram-bot[ext]
+llama-cpp-python
+chromadb
+sentence-transformers
+pydub
+langchain
